@@ -1,16 +1,19 @@
-# Wireshark-Network-Analysis
 
 <p align="center">
 <img width="500px" height="150px" src="https://i.imgur.com/tRogEcg.png" alt="osTicket logo"/>
 </p>
 
-<h1>Wireshark - Installation and Network Analysis</h1>
-This tutorial outlines the prerequisites and installation of the open-source wireshark system.<br />
+<br>
+
+# Wireshark - Installation and Network Analysis
+
+This tutorial outlines the prerequisites and installation of the wireshark application and also analyzing networks, creating graphs and also seeing how network sniffing works
+<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Creating Tickets and Simulating the Ticketing Lifecycle](https://youtu.be/_3jfGlZt32Y)
+- ### [YouTube: Installing Wireshark and using the Application](https://youtu.be/_3jfGlZt32Y)
 
 <h2>Environments and Technologies Used</h2>
 
